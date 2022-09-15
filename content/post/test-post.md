@@ -4,7 +4,7 @@ authors:
 - sash mahara
 title: Test Post
 excerpt: Seeing how things work
-date: 2022-09-15T07:00:00+00:00
+date: 2022-09-14T07:00:00+00:00
 hero: "/images/img_5957.JPG"
 
 ---
