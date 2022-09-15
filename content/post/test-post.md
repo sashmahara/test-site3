@@ -6,7 +6,6 @@ title: Test Post
 excerpt: Seeing how things work
 date: 2022-09-15T07:00:00+00:00
 hero: "/images/img_5957.JPG"
-draft: true
 
 ---
 # Welcome to portfolio v2.0
